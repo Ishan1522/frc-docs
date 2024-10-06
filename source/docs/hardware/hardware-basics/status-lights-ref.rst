@@ -329,6 +329,12 @@ These LEDs are lit red if the Solenoid channel is enabled and not lit if it is d
 | Off                  | Coast Mode      |
 +----------------------+-----------------+
 
+## TalonFX Motor Controllers
+
++--------------------+
+| Blink Codes        | 
++====================+
+
 ## SPARK-MAX Motor Controller
 
 .. image:: images/status-lights/sparkMAXLight.png
